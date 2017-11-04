@@ -1,0 +1,15 @@
+body {
+    margin: 0 100px;
+}
+
+img {
+    cursor: pointer;
+    height: auto;
+    width: 100%;
+    padding-top: 30px;
+}
+
+#no-of-clicks {
+
+}
+
